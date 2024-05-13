@@ -24,3 +24,4 @@ Sanity is a content management system (CMS) which provides generous free tier to
 - create contents and publish
 
 ### You need to add the contents manually to show them on the app
+Blog at: https://medium.com/@tarek42223/how-to-integrate-sanity-in-nextjs-app-router-and-access-sanity-studio-from-the-app-9fe2c8cb73c4
